@@ -1,0 +1,15 @@
+{
+  "author": "terribletriojoe",
+  "name": "nodewar-save-file",
+  "description": "Edit a nodewar species in a local file and save it with this script",
+  "version": "0.0.1",
+  "dependencies": {
+    "request": "~2.16.6",
+    "underscore": "~1.4.4"
+  },
+  "devDependencies": {},
+  "optionalDependencies": {},
+  "engines": {
+    "node": "*"
+  }
+}
